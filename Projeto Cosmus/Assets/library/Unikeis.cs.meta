@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 901d0dd45ad50cf45b905f8a6db26db2
+timeCreated: 1525010634
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UniqueisEfx: {fileID: 8300000, guid: 3477578e5ac0c4549928af62a546b1c6, type: 3}
+  - efeito: {fileID: 1994308945666504, guid: 8d9d43bee2561b74ba3affe268f5bf52, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

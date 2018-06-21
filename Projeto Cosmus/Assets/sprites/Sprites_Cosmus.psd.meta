@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: d9e1c0a73df0524469855acd6d62a4fd
+timeCreated: 1518224921
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Cosmus_0
+    21300002: Sprites_Cosmus_1
+    21300004: Sprites_Cosmus_2
+    21300006: Sprites_Cosmus_3
+    21300008: Sprites_Cosmus_4
+    21300010: Sprites_Cosmus_5
+    21300012: Sprites_Cosmus_6
+    21300014: Sprites_Cosmus_7
+    21300016: Sprites_Cosmus_8
+    21300018: Sprites_Cosmus_9
+    21300020: Sprites_Cosmus_10
+    21300022: Sprites_Cosmus_11
+    21300024: Sprites_Cosmus_12
+    21300026: Sprites_Cosmus_13
+    21300028: Sprites_Cosmus_14
+    21300030: Sprites_Cosmus_15
+    21300032: Sprites_Cosmus_16
+    21300034: Sprites_Cosmus_17
+    21300036: Sprites_Cosmus_18
+    21300038: Sprites_Cosmus_19
+    21300040: Sprites_Cosmus_20
+    21300042: Sprites_Cosmus_21
+    21300044: Sprites_Cosmus_22
+    21300046: Sprites_Cosmus_23
+    21300048: Sprites_Cosmus_24
+    21300050: Sprites_Cosmus_25
+    21300052: Sprites_Cosmus_26
+    21300054: Sprites_Cosmus_27
+    21300056: Sprites_Cosmus_28
+    21300058: Sprites_Cosmus_29
+    21300060: Sprites_Cosmus_30
+    21300062: Sprites_Cosmus_31
+    21300064: Sprites_Cosmus_32
+    21300066: Sprites_Cosmus_33
+    21300068: Sprites_Cosmus_34
+    21300070: Sprites_Cosmus_35
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites_Cosmus_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1656
+        width: 160
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1655
+        width: 158
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1655
+        width: 161
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1656
+        width: 158
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_4
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1656
+        width: 158
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_5
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1655
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_6
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1656
+        width: 161
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1656
+        width: 159
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1420
+        width: 160
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1424
+        width: 159
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1423
+        width: 158
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_11
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1423
+        width: 160
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1420
+        width: 160
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1422
+        width: 159
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_14
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1423
+        width: 162
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_15
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1424
+        width: 158
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1248
+        width: 188
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1248
+        width: 188
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1248
+        width: 188
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 962
+        width: 166
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 963
+        width: 169
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 963
+        width: 166
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_22
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 956
+        width: 166
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_23
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 959
+        width: 166
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_24
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 960
+        width: 169
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 963
+        width: 166
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 748
+        width: 189
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 748
+        width: 185
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 854
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_29
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 748
+        width: 188
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_30
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 856
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 476
+        width: 187
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 476
+        width: 187
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 173
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 195
+        width: 172
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_Cosmus_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 170
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a47c24504260ab4aa372cd61eb1b697
+timeCreated: 1517872847
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mira: {fileID: 4523389214466648, guid: 90b8c77a5ee9ba94b86f5b5d994f5cbd, type: 2}
+  - shot: {fileID: 1628416795921980, guid: 828d683dc3eb2ae4081c5682b2c81872, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

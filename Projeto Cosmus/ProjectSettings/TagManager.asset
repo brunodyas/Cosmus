@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - plaform
+  - Platform
+  - cosmus
+  - money
+  - minibang
+  - filetes
+  - pedra
+  - efeito
+  - bt_esq
+  - bt_dir
+  - bt_play
+  - drone
+  - shot
+  - bt_pause
+  - hab
+  - power
+  - shield
+  - special
+  - limite
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 3215219817
+    locked: 0
+  - name: personanges
+    uniqueID: 733526241
+    locked: 0
+  - name: interface
+    uniqueID: 3002821289
+    locked: 0
